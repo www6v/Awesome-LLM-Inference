@@ -1,5 +1,7 @@
 
 
+# 🎉Awesome LLM Inference Codes  with  Papers
+
 <div align='center'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
@@ -19,11 +21,7 @@
 }
 ```
 
-## 🎉Awesome LLM Inference Codes  with  Papers
-
-[Awesome LLM Inference for Beginners.pdf](https://github.com/xlite-dev/Awesome-LLM-Inference/releases/download/v0.3/Awesome-LLM-Inference-v0.3.pdf.zip): 500 pages, FastServe, FlashAttention 1/2, FlexGen, FP8, LLM.int8(), PagedAttention, RoPE, SmoothQuant, WINT8/4, Continuous Batching, ZeroQuant 1/2/FP, AWQ etc.
-
-
+## 
 
 
 ## 🎉Download All PDFs
@@ -401,13 +399,3 @@ GNU General Public License v3.0
 
 Welcome to star & submit a PR to this repo!
 
-<div align='center'>
-  <img width="450" height="250" alt="v02" src="https://github.com/xlite-dev/Awesome-LLM-Inference/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">
-<a href="https://star-history.dera.page/#xlite-dev/Awesome-LLM-Inference&Date">
-  <picture align='center'>
-    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=xlite-dev/Awesome-LLM-Inference&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=xlite-dev/Awesome-LLM-Inference&type=Date" />
-    <img width="350" height="250" alt="Star History Chart" src="https://star-history.dera.page/svg?repos=xlite-dev/Awesome-LLM-Inference&type=Date" />
-  </picture>
-</a>
-</div>
